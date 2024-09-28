@@ -25,7 +25,7 @@
 
 |                             小偷                             |                       偷窃的网站/项目                        |                             证据                             |                           个人信息                           | 是否同步到云黑 |                             评价                             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------: | :----------------------------------------------------------: |
-| youli.icu、lyqwhxhn.top、yuzusoft.life、yoshino.store、nailuochun.top | [sb1](https://github.com/unknown-o/loveway-php) 、[sb2](https://github.com/renbaoshuo/Shortlink)（修改版权信息） | ![Shortlink](https://github.com/user-attachments/assets/4cc99172-c0e4-4b16-9c43-8356ee407f5c) ![loveway-php](https://github.com/user-attachments/assets/1c2c38ee-51df-436e-8cac-e171dedb8abf)已永久存档：[sb1](https://web.archive.org/web/20240927112433/https://yuki.yuzusoft.life/)、[sb2](https://web.archive.org/web/20240927112614/https://xn--6mqr0fio24jkwe3xr5vdtsed51c.yuzusoft.life/) | ![image.png](https://github.com/user-attachments/assets/394d6a91-d2b4-4306-80ba-91e29a29b2e3)https://x.threatbook.com/v5/domain/youli.icu （身份证和大头照就不放了，如有需要可以联系我获取) |       ✅        | 脚本小贼、AI大蛇、最低级的抄袭，还塞个没卵用的f12.js，实际上一个文件替换就绕过去了，别人抄袭好歹还会去一下特征，这个是真抄不明白，喜欢改版权信息的脚本小贼 |
+| youli.icu、lyqwhxhn.top、yuzusoft.life、yoshino.store、nailuochun.top | [sb1](https://github.com/unknown-o/loveway-php) 、[sb2](https://github.com/renbaoshuo/Shortlink)（修改版权信息） | ![Shortlink](https://github.com/user-attachments/assets/4cc99172-c0e4-4b16-9c43-8356ee407f5c) ![loveway-php](https://github.com/user-attachments/assets/1c2c38ee-51df-436e-8cac-e171dedb8abf)已永久存档：[sb1](https://web.archive.org/web/20240927112433/https://yuki.yuzusoft.life/)、[sb2](https://web.archive.org/web/20240927112614/https://xn--6mqr0fio24jkwe3xr5vdtsed51c.yuzusoft.life/) | ![image.png](https://github.com/user-attachments/assets/394d6a91-d2b4-4306-80ba-91e29a29b2e3)https://x.threatbook.com/v5/domain/youli.icu （身份证和大头照就不放了，如有需要可以联系公安获取) |       ✅        | 脚本小贼、AI大蛇、最低级的抄袭，还塞个没卵用的f12.js，实际上一个文件替换就绕过去了，别人抄袭好歹还会去一下特征，这个是真抄不明白，喜欢改版权信息的脚本小贼 |
 |                                                              |                                                              |                                                              |                                                              |                |                                                              |
 
 
@@ -72,7 +72,7 @@ WHOIS信息本就是全球公开可查的，自己要把名字当注册机构填
 
 这明年高考语文阅读理解你不出卷都可惜了。
 
-补充：对于其它隐私记录我并没有也没有权力获取，只有有权限（公安/政府）的单位可以获取
+补充：对于其它隐私记录我无法获取，只有有权限（公安/政府）的单位可以获取，希望小丑不要造谣😅
 
 
 
@@ -83,17 +83,17 @@ WHOIS信息本就是全球公开可查的，自己要把名字当注册机构填
 
 《讲个笑话，拿别人代码加个要读控制台的彩蛋》
 
-这直接请出GPT Plus的4o吧，这个太典了这个（**某些方法的滥用就是因为这些小丑**）：
+这直接请出GPT Plus的4o吧，这个太典了这个（**GPT都比你有道德**）：
 
 <img src="https://github.com/user-attachments/assets/74adf678-c325-4d82-97b1-4b921565feb7" alt="GPT Plus 4o" style="zoom:25%;" />
 
-为什么市面上那种恶意滥用方法越来越多了？难道真的是因为mozilla在梦游吗？
+为什么市面上那种恶意的检测方法越来越多了？难道真的是因为`Mozilla`在梦游吗？
 
 不就恰恰是这些小丑的滥用导致的么（定义大蛇赶紧去撇清关系吧）🤗
 
 只能说纯NT，但凡被欧盟逮捕一下就老实了。
 
-对了，小丑，告诉你一下，**连TA都是用的别人模板**，
+对了，小丑，告诉你一下，**连TA都是用的别人模板**：
 
 <img src="https://github.com/user-attachments/assets/a164b477-a4f1-4a3e-8769-e2d96e3eae30" alt="Aerial by HTML5 UP" style="zoom:25%;" />
 
@@ -101,7 +101,7 @@ WHOIS信息本就是全球公开可查的，自己要把名字当注册机构填
 
 知道了吗？快去屁颠屁颠找你的主人去充电吧，噢，这个项目组没有b站欸
 
-那你就继续当你的版权狗吧，同时那不叫存档，只是因为TA不追责而去掉了🤣👌
+那你就继续当你的版权狗吧，同时那不叫存档，只是因为TA都没版权🤣👌
 
 
 
