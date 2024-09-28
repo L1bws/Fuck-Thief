@@ -1,6 +1,10 @@
 # Fuck-Thief
 去他妈的小偷
 
+项目访问量：![Total visitor](https://komarev.com/ghpvc/?username=L1bws&label=Fuck-Thief%20views&color=0e75b6&style=flat)
+
+（访问量证明小丑们的弱智程度，同时我不需要star，只需要你们将该项目宣传出去即可🤗）
+
 
 
 ### 该项目是专门为偷窃和使用AI的弱智修建的耻辱柱
