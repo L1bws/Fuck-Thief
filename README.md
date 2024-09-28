@@ -81,6 +81,8 @@ WHOIS信息本就是全球公开可查的，自己要把名字当注册机构填
 
 <img src="https://github.com/user-attachments/assets/aa21dddf-1aae-42c9-bee2-e2f0d892bda4" alt="《彩蛋》" style="zoom:25%;" />
 
+（图片中的代码源于存档网站，你就算把仓库删了，这代码也会在这，知道吗小丑😁👌）
+
 《讲个笑话，拿别人代码加个要读控制台的彩蛋》
 
 这直接请出GPT Plus的4o吧，这个太典了这个（**GPT都比你有道德**）：
