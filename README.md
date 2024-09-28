@@ -129,6 +129,8 @@ WHOIS信息本就是全球公开可查的，自己要把名字当注册机构填
 
 `本项目采用GNU General Public License (GPL) V2许可证开源`、`如果不同意此许可证，请不要使用本程序`
 
+对了小丑，我联系上了作者，如果有需要，**TA可以起诉你噢**（**已经存档了，改也没用了**）🤗
+
 
 
 4. ##### 《修改标题+隐藏/删除许可证》
@@ -162,9 +164,9 @@ SOFTWARE.
 ```
 
 我们直接定位到这一行：`The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.`;
+copies or substantial portions of the Software.`
 
-给这位文盲小丑翻译一下：`上述版权声明和本许可声明应包含在软件的所有副本或重要部分中。`;
+给这位文盲小丑翻译一下：`上述版权声明和本许可声明应包含在软件的所有副本或重要部分中。`
 
 <img src="https://github.com/user-attachments/assets/ed12eb26-dd02-464d-9463-5a406b88ed4e" alt="许可证呢?" style="zoom:25%;" />
 
