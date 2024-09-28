@@ -95,7 +95,7 @@ WHOIS信息本就是全球公开可查的，自己要把名字当注册机构填
 
 对了，小丑，告诉你一下，**连TA都是用的别人模板**，
 
-<img src="https://github.com/user-attachments/assets/05d323b4-769e-4fa2-b13e-931faae1db84" alt="Aerial by HTML5 UP" style="zoom:25%;" />
+<img src="https://github.com/user-attachments/assets/a164b477-a4f1-4a3e-8769-e2d96e3eae30" alt="Aerial by HTML5 UP" style="zoom:25%;" />
 
 我来告诉小狗你的主人应该是谁：https://html5up.net/aerial 
 
