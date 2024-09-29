@@ -226,6 +226,14 @@ copies or substantial portions of the Software.`
 
 （让它杠吧，**毕竟版权狗喜欢乱咬人**😁👍）
 
+补充④：再来讲点笑话：《GitHub免费服务器能处理后端任务》、《Github超时了》、《Github再套层CloudFlare》
+
+<img src="https://github.com/user-attachments/assets/b05430b9-4705-4199-ae59-7f1e70c66dab" alt="小丑" style="zoom:25%;" />
+
+要我说没有十几年的NT是真说不出这种话，真就《免废版》服务器，果然和你的一辈子一样废呢🤣
+
+（欢迎小丑来急眼，可是等你找到户口本了再说吧😁👍）
+
 
 
 ------
