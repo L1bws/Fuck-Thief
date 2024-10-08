@@ -109,7 +109,7 @@
 
 3. #### 《充电等于无视开源许可证》
 
-我只能说和版本T0一样，我充电了≠我不能违反开源协议：
+我只能说和版本T0一样，我充电了≠我要遵守开源协议：
 
 <img src="https://github.com/user-attachments/assets/a9879242-7416-4aff-b509-92f722b21180" alt="GPT Plus 4o" style="zoom:25%;" />
 
